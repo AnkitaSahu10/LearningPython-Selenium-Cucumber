@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>CUCUMBER_SELENIUM</name>
 	<comment></comment>
 	<projects>
@@ -22,6 +23,30 @@
 		</buildCommand>
 		<buildCommand>
 			<name>org.eclipse.m2e.core.maven2Builder</name>
+=======
+	<name>CUCUMBER</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>cucumber.eclipse.builder.stepdefinition</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>cucumber.eclipse.builder.gherkin</name>
+>>>>>>> branch 'master' of file:///C:\Users\CUCUMBER
 			<arguments>
 			</arguments>
 		</buildCommand>
